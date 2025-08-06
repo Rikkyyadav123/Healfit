@@ -10,7 +10,7 @@ export const Header: React.FC = () => {
             <div className="p-2 bg-gradient-to-r from-blue-600 to-purple-600 rounded-xl">
               <Activity className="h-6 w-6 text-white" />
             </div>
-            <h1 className="text-2xl font-bold text-gray-900">EliteFit</h1>
+            <h1 className="text-2xl font-bold text-gray-900">HealFit</h1>
           </div>
           
           <nav className="hidden md:flex items-center space-x-8">
